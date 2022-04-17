@@ -1,3 +1,3 @@
-# bounce.py
+print("# bounce.py")
 #
 # Exercise 1.5
